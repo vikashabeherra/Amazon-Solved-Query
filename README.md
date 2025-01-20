@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Project with SQL
+# Amazon Sales Analysis Project with PostgreSQL
 ![Image](https://github.com/user-attachments/assets/dc91dbad-a282-4c24-b1a7-c69506292f5a)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales data from Amazon to extract insights and trends that can help optimize sales strategies, understand customer behavior, and improve business operations.
 # Introduction
